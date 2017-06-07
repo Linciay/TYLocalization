@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  TYLocalization
+
+  Created by Yang on 2017/6/6.
+  Copyright © 2017年 Tina. All rights reserved.
+*/
+
+CFBundleDisplayName = "本地化";
+UILaunchStoryboardName = "LaunchImage_Ch";
+NSBluetoothPeripheralUsageDescription = "用来传输数据。";
+NSCameraUsageDescription = "用来拍照。";

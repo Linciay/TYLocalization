@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  TYLocalization
+
+  Created by Yang on 2017/6/6.
+  Copyright © 2017年 Tina. All rights reserved.
+*/
+
+CFBundleDisplayName = "Localization";
+UILaunchStoryboardName = "LaunchImage_En";
+NSBluetoothPeripheralUsageDescription = "Used to transmit data.";
+NSCameraUsageDescription = "Used to take photos.";

@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  TYLocalization
+
+  Created by Yang on 2017/6/7.
+  Copyright © 2017年 Tina. All rights reserved.
+*/
+
+"mainImage" = "mainImage_ch";
+"mainText" = "中文";
+"forceText" = "强制中文";
